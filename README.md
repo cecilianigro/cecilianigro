@@ -6,7 +6,7 @@ Sempre me interessei pela programação, Hoje trabalho como desenvolvedora Fulls
 
 Conhecimento Básico em:
 
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT&logoColor=#E34F26) ![DOCKER](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=DOCKER&logoColor=#E34F26)  ![ANGULAR](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=REACT&logoColor=#E34F26) ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-333333?style=flat&logo=Amazon_Web_Services&logoColor=#E34F26) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB&logoColor=#E34F26)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=#E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=#E34F26) ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=REACT&logoColor=#E34F26) ![DOCKER](https://img.shields.io/badge/-DOCKER-333333?style=flat&logo=DOCKER&logoColor=#E34F26)  ![ANGULAR](https://img.shields.io/badge/-ANGULAR-333333?style=flat&logo=REACT&logoColor=#E34F26) ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-333333?style=flat&logo=Amazon_Web_Services&logoColor=#E34F26) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongoDB&logoColor=#E34F26) ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana&logoColor=#E34F26)
 
 Conhecimento Intermediario em: 
 
