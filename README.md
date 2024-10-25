@@ -10,7 +10,7 @@ Conhecimento Básico em:
 
 Conhecimento Intermediario em: 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=#F7DF1E) ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=sharp&logoColor=#F7DF1E) ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=#F7DF1E) ![Vue.js](https://img.shields.io/badge/-VUEjs-333333?style=flat&logo=vuedotjs&logoColor=#F7DF1E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=#F7DF1E) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=#F7DF1E) ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=sharp&logoColor=#F7DF1E) ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=#F7DF1E) ![Vue.js](https://img.shields.io/badge/-VUEjs-333333?style=flat&logo=vuedotjs&logoColor=#F7DF1E) ![.Net](https://img.shields.io/badge/-DotNet-333333?style=flat&logo=dotnet&logoColor=#F7DF1E)
 
 
 
