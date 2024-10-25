@@ -13,6 +13,7 @@ Conhecimento Intermediario em:
 
 
 Obrigada pela visita, veja meu LinkedIn:
+
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cecília-nigro-a20b26157/)    
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cecilianigro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecilianigro&layout=compact&langs_count=7&theme=dracula"/>
